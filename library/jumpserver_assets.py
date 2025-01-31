@@ -46,7 +46,7 @@ author:
 EXAMPLES = r'''
 # Create a new asset
 - name: Ensure asset exists
-  asset_manager:
+  jumpserver_assets:
     host: "api.example.com"
     api_token: "secret_token"
     name: "server01"
@@ -55,7 +55,7 @@ EXAMPLES = r'''
 
 # Delete an asset
 - name: Ensure asset is removed
-  asset_manager:
+  jumpserver_assets:
     host: "api.example.com"
     api_token: "secret_token"
     name: "server01"
