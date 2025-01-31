@@ -74,8 +74,8 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Author
 
-Your Name (@iriskins)
-```
+@iriskins
+
 ---
 **Notes**: 
 - Replace `your_api_token_here` and `jumpserver.example.com` with your actual JumpServer details.
